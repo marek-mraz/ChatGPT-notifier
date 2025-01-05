@@ -1,3 +1,5 @@
+This is a fork of [ChatGPT-notifier](https://github.com/marek-mraz/ChatGPT-notifier)
+
 # ChatGPT-notification
 
 Packaged version on Chrome Web Store: [ChatGPT Notifier](https://chromewebstore.google.com/detail/chatgpt-notifier/kpbihpkcpnfnjddplngmbljcfofjgejh)
